@@ -1,0 +1,858 @@
+,Lat_long,Most_common_sqft_binned,Most_common_hvac_heating_fuel_new,Most_common_heating_setpoint,Most_common_in.vintage,Most_common_in.occupants,Most_common_in.geometry_building_type_height,Most_common_electric_water_heater,Most_common_clothes_washer_usage_new,Most_common_cooling_setpoint,Most_common_Lighting_new,Most_common_hvac_cooling_eff_new,Most_common_in.hvac_has_ducts
+0,"(24.73, -81.05)",1000-1499,Electric-resistance,55,1980s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,high,Yes
+1,"(25.82, -80.3)",1000-1499,Electric-resistance,70,1950s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,high,Yes
+2,"(25.9, -97.43)",1500-1999,Electric-resistance,70,2000s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,avg,Yes
+3,"(26.15, -81.77)",1500-1999,Electric-resistance,55,2000s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,high,Yes
+4,"(26.2, -80.167)",1500-1999,Electric-resistance,70,1990s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,high,Yes
+5,"(26.23, -97.65)",1000-1499,Electric-resistance,72,1950s,1,Single-Family Detached,Electric Standard,avg,76,Incandescent,high,Yes
+6,"(26.31, -98.17)",1500-1999,Electric-resistance,70,2000s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+7,"(26.53, -81.75)",1000-1499,Electric-resistance,55,1980s,2,Single-Family Detached,Electric Standard,avg,75,Incandescent,high,Yes
+8,"(26.58, -81.87)",1500-1999,Electric-resistance,55,2000s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,high,Yes
+9,"(26.68, -80.1)",1500-1999,Electric-resistance,70,1980s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,high,Yes
+10,"(27.38, -82.55)",1500-1999,Electric-resistance,70,2000s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,high,Yes
+11,"(27.483, -80.367)",1500-1999,Electric-resistance,70,2000s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,high,Yes
+12,"(27.5, -97.82)",1000-1499,Electric-resistance,55,1970s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+13,"(27.57, -99.49)",1500-1999,Electric-resistance,70,2000s,1,Single-Family Detached,Electric Standard,avg,78,LED_CFL,high,Yes
+14,"(27.65, -80.42)",1500-1999,Electric-resistance,55,2000s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,high,Yes
+15,"(27.68, -97.28)",1500-1999,Electric-resistance,70,1950s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,avg,Yes
+16,"(27.73, -98.03)",1000-1499,Electric-resistance,55,1980s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,avg,Yes
+17,"(27.88, -97.63)",1000-1499,Electric-resistance,55,1970s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+18,"(27.9, -82.68)",1500-1999,Electric-resistance,70,1950s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,high,Yes
+19,"(27.97, -82.53)",1500-1999,Electric-resistance,70,2000s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,high,Yes
+20,"(27.983, -82.017)",1000-1499,Electric-resistance,70,2000s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,high,Yes
+21,"(28.08, -97.05)",1000-1499,Electric-resistance,70,1970s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,avg,Yes
+22,"(28.12, -80.65)",1500-1999,Electric-resistance,70,1980s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,high,Yes
+23,"(28.43, -81.33)",1500-1999,Electric-resistance,55,2000s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,high,Yes
+24,"(28.45, -99.22)",1500-1999,Electric-resistance,70,1990s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,avg,Yes
+25,"(28.55, -81.33)",1500-1999,Electric-resistance,70,2000s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,high,Yes
+26,"(28.72, -96.25)",1000-1499,Electric-resistance,55,1970s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,avg,Yes
+27,"(28.78, -81.25)",1500-1999,Electric-resistance,68,1980s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,high,Yes
+28,"(28.87, -96.93)",1000-1499,Electric-resistance,70,1980s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+29,"(29.17, -82.22)",1500-1999,Electric-resistance,70,2000s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,high,Yes
+30,"(29.18, -81.07)",1000-1499,Electric-resistance,70,1980s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,high,Yes
+31,"(29.183, -81.067)",1500-1999,Electric-resistance,70,2000s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,high,Yes
+32,"(29.33, -98.47)",1000-1499,Electric-resistance,55,1970s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+33,"(29.37, -100.78)",1500-1999,Electric-resistance,55,2000s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,high,Yes
+34,"(29.37, -99.17)",1000-1499,Electric-resistance,55,2000s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,high,Yes
+35,"(29.38, -100.91)",1000-1499,Electric-resistance,72,1980s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,high,Yes
+36,"(29.53, -98.47)",1500-1999,Electric-resistance,70,2000s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,avg,Yes
+37,"(29.53, -98.28)",1500-1999,Electric-resistance,70,2000s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+38,"(29.567, -90.667)",1500-1999,Electric-resistance,70,1970s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,avg,Yes
+39,"(29.57, -95.09)",1500-1999,Non-electric,70,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+40,"(29.65, -95.283)",2500-3499,Non-electric,70,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,avg,Yes
+41,"(29.7, -82.283)",2000-2499,Electric-resistance,70,1980s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,high,Yes
+42,"(29.7, -82.28)",1000-1499,Electric-resistance,70,1980s,1,Single-Family Detached,Electric Standard,avg,76,LED_CFL,high,Yes
+43,"(29.72, -91.33)",1000-1499,Electric-resistance,68,1960s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+44,"(29.82, -90.02)",1500-1999,Electric-resistance,68,1970s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+45,"(29.95, -94.02)",1500-1999,Electric-resistance,70,1960s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+46,"(30.0, -95.37)",1500-1999,Non-electric,70,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+47,"(30.0, -90.25)",1500-1999,Non-electric,70,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,avg,Yes
+48,"(30.033, -91.883)",1000-1499,Electric-resistance,70,1970s,2,Single-Family Detached,Electric Standard,avg,76,LED_CFL,avg,Yes
+49,"(30.05, -90.03)",1500-1999,Electric-resistance,70,2000s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+50,"(30.07, -95.55)",2500-3499,Non-electric,70,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,avg,Yes
+51,"(30.07, -85.58)",2500-3499,Electric-HP,70,2000s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,high,Yes
+52,"(30.12, -93.23)",1000-1499,Electric-resistance,68,1950s,1,Single-Family Detached,Electric Standard,avg,78,LED_CFL,avg,Yes
+53,"(30.2, -91.98)",1000-1499,Electric-resistance,70,1970s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,avg,Yes
+54,"(30.2, -85.68)",1000-1499,Electric-resistance,55,2000s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,high,Yes
+55,"(30.22, -93.17)",1500-1999,Electric-resistance,72,1970s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+56,"(30.23, -81.67)",1500-1999,Electric-resistance,70,2000s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,high,Yes
+57,"(30.29, -97.74)",1500-1999,Electric-resistance,70,2000s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,avg,Yes
+58,"(30.32, -97.77)",2500-3499,Non-electric,70,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,avg,Yes
+59,"(30.37, -104.02)",1000-1499,Non-electric,70,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,avg,Yes
+60,"(30.38, -84.37)",1000-1499,Electric-resistance,70,1970s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,high,Yes
+61,"(30.4, -89.07)",1500-1999,Electric-resistance,55,2000s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,high,Yes
+62,"(30.4, -89.067)",1000-1499,Electric-resistance,70,2000s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,high,Yes
+63,"(30.42, -88.92)",1000-1499,Electric-resistance,75,1970s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,high,Yes
+64,"(30.48, -87.18)",1500-1999,Electric-resistance,70,2000s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,high,Yes
+65,"(30.48, -86.52)",1000-1499,Electric-resistance,68,1990s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,high,Yes
+66,"(30.5, -81.7)",1500-1999,Electric-resistance,72,2000s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,high,Yes
+67,"(30.53, -91.15)",1500-1999,Electric-resistance,70,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+68,"(30.533, -91.15)",1500-1999,Non-electric,68,2000s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,avg,Yes
+69,"(30.58, -96.37)",1000-1499,Electric-resistance,55,1980s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,avg,Yes
+70,"(30.583, -96.367)",1500-1999,Non-electric,70,2000s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,avg,Yes
+71,"(30.633, -88.067)",1000-1499,Electric-resistance,70,2000s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,high,Yes
+72,"(30.68, -97.68)",2500-3499,Non-electric,70,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+73,"(30.68, -88.25)",1500-1999,Non-electric,70,1970s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+74,"(30.78, -83.28)",1000-1499,Electric-resistance,70,2000s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,high,Yes
+75,"(30.97, -83.2)",1000-1499,Electric-resistance,72,1970s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,high,Yes
+76,"(31.05, -93.18)",1000-1499,Non-electric,55,1950s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,avg,Yes
+77,"(31.07, -97.83)",1500-1999,Electric-resistance,55,1990s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,high,Yes
+78,"(31.08, -97.68)",1500-1999,Electric-resistance,70,2000s,2,Single-Family Detached,Electric Standard,avg,76,LED_CFL,avg,Yes
+79,"(31.133, -97.717)",1500-1999,Electric-resistance,55,2000s,2,Single-Family Detached,Electric Standard,avg,78,Incandescent,avg,Yes
+80,"(31.15, -97.4)",2000-2499,Non-electric,55,1990s,2,Single-Family Detached,Electric Standard,high,75,LED_CFL,avg,Yes
+81,"(31.23, -94.75)",1000-1499,Electric-resistance,55,1970s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,avg,Yes
+82,"(31.23, -90.47)",1000-1499,Electric-resistance,55,1970s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+83,"(31.23, -85.43)",1000-1499,Electric-resistance,70,1970s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,high,Yes
+84,"(31.25, -81.467)",1500-1999,Electric-resistance,70,2000s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,high,Yes
+85,"(31.27, -85.72)",1000-1499,Electric-resistance,68,1970s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,high,Yes
+86,"(31.32, -92.55)",1000-1499,Electric-resistance,72,1970s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+87,"(31.35, -100.5)",1000-1499,Electric-resistance,55,1950s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,avg,Yes
+88,"(31.4, -92.3)",1000-1499,Non-electric,70,1970s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+89,"(31.467, -109.6)",2000-2499,Non-electric,70,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+90,"(31.47, -109.6)",1000-1499,Non-electric,70,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,avg,Yes
+91,"(31.47, -89.33)",1000-1499,Non-electric,68,1970s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,high,Yes
+92,"(31.48, -97.32)",1000-1499,Electric-resistance,75,1990s,1,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+93,"(31.53, -84.18)",1000-1499,Electric-resistance,70,1970s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,high,Yes
+94,"(31.53, -82.5)",1000-1499,Electric-resistance,72,1960s,2,Single-Family Detached,Electric Standard,avg,76,LED_CFL,avg,Yes
+95,"(31.533, -82.5)",1000-1499,Electric-resistance,70,1980s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,high,Yes
+96,"(31.58, -94.72)",1000-1499,Electric-resistance,68,1970s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+97,"(31.62, -97.23)",1500-1999,Electric-resistance,70,1970s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,avg,Yes
+98,"(31.62, -91.3)",1000-1499,Non-electric,55,1970s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+99,"(31.77, -106.5)",1500-1999,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,avg,Yes
+100,"(31.78, -103.2)",1000-1499,Non-electric,55,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,avg,Yes
+101,"(31.867, -86.017)",1000-1499,Electric-resistance,55,1970s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,high,Yes
+102,"(31.95, -102.18)",1000-1499,Non-electric,68,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,avg,Yes
+103,"(32.0, -81.15)",1500-1999,Electric-resistance,70,2000s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,high,Yes
+104,"(32.12, -81.2)",1500-1999,Electric-resistance,70,1980s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,high,Yes
+105,"(32.13, -110.95)",1500-1999,Non-electric,70,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,avg,Yes
+106,"(32.25, -107.717)",1000-1499,Non-electric,70,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+107,"(32.283, -106.917)",1500-1999,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,avg,Yes
+108,"(32.29, -94.98)",1000-1499,Non-electric,70,1970s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+109,"(32.3, -86.4)",1500-1999,Electric-resistance,55,1970s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+110,"(32.32, -90.08)",1500-1999,Non-electric,68,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+111,"(32.33, -104.27)",1500-1999,Non-electric,70,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+112,"(32.33, -88.75)",1000-1499,Non-electric,68,1970s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+113,"(32.35, -95.4)",1500-1999,Electric-resistance,68,2000s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+114,"(32.35, -85.0)",1000-1499,Electric-resistance,68,1950s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,high,Yes
+115,"(32.38, -86.35)",1000-1499,Non-electric,68,1970s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+116,"(32.45, -93.82)",1000-1499,Non-electric,70,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+117,"(32.47, -99.71)",1000-1499,Non-electric,55,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+118,"(32.48, -80.72)",2500-3499,Electric-resistance,55,2000s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,high,Yes
+119,"(32.5, -93.67)",1500-1999,Non-electric,68,1960s,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+120,"(32.52, -92.03)",1000-1499,Non-electric,55,1970s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+121,"(32.52, -84.95)",1000-1499,Non-electric,68,1960s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+122,"(32.55, -88.57)",1000-1499,Non-electric,70,1970s,1,Single-Family Detached,Electric Standard,avg,72,LED_CFL,high,Yes
+123,"(32.62, -85.43)",1500-1999,Electric-resistance,70,2000s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+124,"(32.63, -83.6)",1500-1999,Electric-resistance,70,2000s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+125,"(32.67, -114.6)",1500-1999,Electric-resistance,70,2000s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,avg,Yes
+126,"(32.68, -96.87)",1500-1999,Electric-resistance,70,2000s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,high,Yes
+127,"(32.68, -83.65)",1000-1499,Non-electric,68,2000s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,high,Yes
+128,"(32.77, -97.45)",1500-1999,Electric-resistance,70,2000s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,high,Yes
+129,"(32.783, -98.067)",1000-1499,Electric-resistance,55,1970s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+130,"(32.817, -97.367)",1500-1999,Non-electric,68,2000s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+131,"(32.82, -109.68)",1500-1999,Non-electric,55,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,76,LED_CFL,avg,Yes
+132,"(32.83, -115.58)",1500-1999,Non-electric,70,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,avg,Yes
+133,"(32.85, -106.1)",1000-1499,Non-electric,55,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+134,"(32.85, -96.85)",1500-1999,Non-electric,68,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+135,"(32.87, -117.13)",1500-1999,Non-electric,70,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,avg,Yes
+136,"(32.9, -97.02)",2500-3499,Non-electric,70,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+137,"(32.9, -80.03)",1500-1999,Electric-resistance,70,2000s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+138,"(32.95, -111.77)",2500-3499,Non-electric,70,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,high,Yes
+139,"(32.967, -96.833)",2500-3499,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+140,"(32.98, -97.32)",1000-1499,Non-electric,70,1980s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+141,"(33.067, -96.067)",1500-1999,Non-electric,68,2000s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+142,"(33.22, -92.82)",1000-1499,Non-electric,70,1960s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+143,"(33.22, -87.62)",1500-1999,Non-electric,68,2000s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+144,"(33.23, -107.27)",1500-1999,Non-electric,55,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+145,"(33.3, -104.53)",1000-1499,Non-electric,55,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,avg,Yes
+146,"(33.37, -81.97)",1500-1999,Non-electric,68,2000s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+147,"(33.45, -111.98)",1500-1999,Electric-resistance,70,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,high,Yes
+148,"(33.45, -94.0)",1000-1499,Non-electric,70,1970s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+149,"(33.45, -88.58)",1500-1999,Non-electric,68,1970s,2,Single-Family Detached,Electric Standard,avg,75,Incandescent,avg,Yes
+150,"(33.47, -105.53)",1000-1499,Non-electric,55,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+151,"(33.483, -90.983)",1000-1499,Non-electric,68,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+152,"(33.5, -90.083)",1000-1499,Non-electric,55,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,avg,Yes
+153,"(33.5, -90.08)",1000-1499,Non-electric,55,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+154,"(33.57, -86.75)",1500-1999,Non-electric,70,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+155,"(33.58, -85.85)",1000-1499,Non-electric,70,1970s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+156,"(33.62, -114.72)",1000-1499,Electric-resistance,70,1990s,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,high,Yes
+157,"(33.63, -95.45)",1000-1499,Non-electric,68,1970s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+158,"(33.63, -84.43)",1500-1999,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+159,"(33.65, -88.45)",1000-1499,Non-electric,70,1970s,2,Single-Family Detached,Electric Standard,low,72,LED_CFL,avg,Yes
+160,"(33.67, -101.82)",1000-1499,Non-electric,68,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+161,"(33.68, -78.93)",1500-1999,Electric-resistance,70,2000s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,high,Yes
+162,"(33.683, -117.867)",1500-1999,Non-electric,70,1960s,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,avg,Yes
+163,"(33.77, -84.52)",1500-1999,Non-electric,72,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+164,"(33.817, -78.717)",1000-1499,Non-electric,70,1970s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+165,"(33.87, -84.3)",1500-1999,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+166,"(33.9, -117.25)",1500-1999,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+167,"(33.92, -118.33)",1000-1499,Non-electric,70,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,avg,Yes
+168,"(33.92, -84.52)",1500-1999,Non-electric,68,1990s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+169,"(33.95, -117.45)",1500-1999,Non-electric,70,1980s,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,avg,Yes
+170,"(33.95, -83.33)",1000-1499,Electric-resistance,68,2000s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,high,Yes
+171,"(33.95, -81.12)",1500-1999,Electric-resistance,70,2000s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+172,"(33.97, -86.08)",1000-1499,Electric-resistance,68,1970s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+173,"(33.97, -80.47)",1500-1999,Electric-resistance,70,1970s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,high,Yes
+174,"(33.98, -98.5)",1000-1499,Non-electric,70,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+175,"(34.17, -91.93)",1000-1499,Non-electric,70,1970s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+176,"(34.18, -79.73)",1000-1499,Electric-resistance,68,1970s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+177,"(34.22, -119.08)",1500-1999,Non-electric,68,1960s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+178,"(34.267, -110.0)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,high,78,LED_CFL,high,Yes
+179,"(34.27, -88.77)",1000-1499,Non-electric,68,1970s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+180,"(34.27, -77.9)",1500-1999,Electric-resistance,55,2000s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,high,Yes
+181,"(34.35, -85.17)",1500-1999,Non-electric,70,2000s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,high,Yes
+182,"(34.38, -103.32)",1000-1499,Non-electric,70,1950s,1,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+183,"(34.43, -119.85)",1500-1999,Non-electric,68,1960s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+184,"(34.43, -103.08)",1000-1499,Non-electric,70,1950s,1,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,high,Yes
+185,"(34.43, -100.28)",1000-1499,Non-electric,70,1950s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,avg,Yes
+186,"(34.433, -100.283)",1000-1499,Non-electric,68,1960s,2,Single-Family Detached,Electric Standard,avg,70,Incandescent,avg,Yes
+187,"(34.467, -93.1)",1500-1999,Non-electric,68,1970s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+188,"(34.5, -82.72)",1000-1499,Non-electric,68,2000s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+189,"(34.5, -82.717)",1000-1499,Non-electric,68,2000s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+190,"(34.57, -98.42)",1500-1999,Non-electric,55,1960s,2,Single-Family Detached,Non-electric Water Heater,avg,70,Incandescent,avg,Yes
+191,"(34.6, -91.57)",1000-1499,Non-electric,68,1970s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+192,"(34.65, -112.42)",2500-3499,Non-electric,55,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,avg,Yes
+193,"(34.65, -99.27)",1000-1499,Non-electric,68,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+194,"(34.65, -98.4)",1000-1499,Non-electric,68,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+195,"(34.65, -86.78)",1000-1499,Electric-resistance,68,2000s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+196,"(34.7, -77.38)",1500-1999,Electric-resistance,68,2000s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,high,Yes
+197,"(34.75, -92.23)",1000-1499,Non-electric,68,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+198,"(34.75, -87.6)",1000-1499,Non-electric,68,1970s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+199,"(34.83, -77.62)",1500-1999,Electric-resistance,70,1960s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+200,"(34.85, -82.35)",1500-1999,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+201,"(34.9, -95.78)",1000-1499,Non-electric,70,1970s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+202,"(34.9, -82.22)",1500-1999,Non-electric,68,2000s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+203,"(34.9, -76.88)",1000-1499,Electric-resistance,55,1990s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,high,Yes
+204,"(34.92, -92.15)",1500-1999,Non-electric,68,2000s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+205,"(34.98, -78.88)",1000-1499,Electric-resistance,68,1970s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,high,Yes
+206,"(34.99, -101.9)",1500-1999,Non-electric,68,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,avg,Yes
+207,"(35.0, -99.05)",1000-1499,Non-electric,70,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+208,"(35.03, -110.72)",1000-1499,Non-electric,55,1980s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+209,"(35.03, -85.2)",1500-1999,Electric-resistance,68,1970s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,high,Yes
+210,"(35.04, -106.62)",1500-1999,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,avg,Yes
+211,"(35.07, -89.98)",1000-1499,Non-electric,70,1990s,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+212,"(35.07, -77.05)",1000-1499,Electric-resistance,70,2000s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,avg,Yes
+213,"(35.13, -111.67)",1500-1999,Non-electric,55,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+214,"(35.13, -78.93)",1000-1499,Electric-resistance,68,1970s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,high,Yes
+215,"(35.17, -79.02)",1000-1499,Electric-resistance,68,1950s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+216,"(35.183, -103.6)",1000-1499,Electric-resistance,55,1980s,1,Single-Family Detached,Electric Standard,avg,78,LED_CFL,high,Yes
+217,"(35.22, -80.95)",1500-1999,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+218,"(35.23, -120.63)",1500-1999,Non-electric,68,1980s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+219,"(35.23, -79.4)",1500-1999,Electric-resistance,68,2000s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+220,"(35.27, -113.95)",1000-1499,Electric-resistance,70,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,avg,Yes
+221,"(35.27, -75.55)",1500-1999,Electric-resistance,55,<1940,1,Single-Family Detached,Electric Standard,high,70,Incandescent,avg,Yes
+222,"(35.317, -77.633)",1000-1499,Electric-resistance,70,1970s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+223,"(35.33, -99.2)",1000-1499,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,avg,Yes
+224,"(35.33, -94.37)",1000-1499,Non-electric,68,1970s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+225,"(35.35, -77.97)",1500-1999,Electric-resistance,68,2000s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+226,"(35.38, -97.6)",1500-1999,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+227,"(35.42, -97.38)",1500-1999,Non-electric,68,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+228,"(35.43, -119.05)",1500-1999,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,avg,Yes
+229,"(35.43, -82.53)",1000-1499,Non-electric,68,2000s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+230,"(35.52, -108.78)",1500-1999,Non-electric,55,1970s,1,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+231,"(35.53, -97.65)",1500-1999,Non-electric,68,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+232,"(35.6, -88.92)",1500-1999,Non-electric,68,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+233,"(35.617, -106.083)",2500-3499,Non-electric,70,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+234,"(35.63, -77.4)",1500-1999,Electric-resistance,55,2000s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,high,Yes
+235,"(35.65, -105.15)",2000-2499,Non-electric,55,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+236,"(35.73, -91.65)",1000-1499,Non-electric,70,1970s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+237,"(35.73, -81.38)",1500-1999,Non-electric,68,2000s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+238,"(35.733, -81.383)",1000-1499,Electric-resistance,68,1970s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+239,"(35.82, -83.98)",1500-1999,Non-electric,68,2000s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+240,"(35.83, -90.65)",1000-1499,Non-electric,70,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+241,"(35.85, -77.9)",1000-1499,Non-electric,68,1970s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+242,"(35.87, -78.78)",1500-1999,Non-electric,68,2000s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+243,"(35.917, -75.7)",1500-1999,Electric-resistance,55,1970s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,high,Yes
+244,"(35.95, -85.083)",1500-1999,Non-electric,70,1970s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+245,"(35.95, -85.08)",1000-1499,Non-electric,68,1990s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,high,Yes
+246,"(36.0, -94.17)",1500-1999,Non-electric,70,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+247,"(36.017, -102.55)",1000-1499,Non-electric,55,1960s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,low,Yes
+248,"(36.02, -102.55)",1000-1499,Non-electric,70,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,avg,Yes
+249,"(36.02, -89.4)",1000-1499,Non-electric,70,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+250,"(36.08, -115.15)",1500-1999,Non-electric,70,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,avg,Yes
+251,"(36.1, -79.95)",1000-1499,Non-electric,68,1990s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+252,"(36.12, -86.68)",1500-1999,Non-electric,68,2000s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+253,"(36.13, -90.92)",1500-1999,Non-electric,70,1990s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+254,"(36.13, -80.22)",1500-1999,Non-electric,68,2000s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+255,"(36.15, -97.08)",1000-1499,Non-electric,55,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+256,"(36.183, -94.117)",1500-1999,Non-electric,68,1970s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+257,"(36.2, -95.88)",1000-1499,Non-electric,68,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+258,"(36.26, -76.179)",1000-1499,Electric-resistance,55,2000s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+259,"(36.267, -93.15)",1500-1999,Non-electric,68,1970s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+260,"(36.27, -93.15)",1000-1499,Non-electric,55,2000s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+261,"(36.3, -99.77)",1500-1999,Non-electric,70,1950s,1,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+262,"(36.3, -99.767)",1500-1999,Non-electric,55,1960s,1,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+263,"(36.3, -92.47)",1000-1499,Non-electric,68,1970s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+264,"(36.3, -76.25)",1000-1499,Electric-resistance,68,2000s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+265,"(36.32, -119.4)",1500-1999,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,avg,Yes
+266,"(36.33, -119.95)",1500-1999,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,76,LED_CFL,avg,Yes
+267,"(36.33, -97.92)",1000-1499,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+268,"(36.35, -94.22)",1500-1999,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+269,"(36.37, -94.1)",1000-1499,Non-electric,68,1990s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,high,Yes
+270,"(36.45, -105.67)",1500-1999,Non-electric,55,1960s,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+271,"(36.45, -103.15)",1000-1499,Non-electric,55,1960s,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,avg,Yes
+272,"(36.467, -82.4)",1000-1499,Electric-resistance,68,1970s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,high,Yes
+273,"(36.47, -82.4)",1500-1999,Electric-resistance,68,1970s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,high,Yes
+274,"(36.57, -79.33)",1000-1499,Non-electric,68,1950s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+275,"(36.61, -97.49)",1500-1999,Non-electric,55,1970s,1,Single-Family Detached,Non-electric Water Heater,avg,72,Incandescent,avg,Yes
+276,"(36.63, -116.02)",1000-1499,Non-electric,70,1990s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+277,"(36.63, -80.02)",1000-1499,Non-electric,68,1970s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+278,"(36.667, -121.6)",1000-1499,Non-electric,68,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+279,"(36.67, -121.6)",1500-1999,Non-electric,65,1990s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+280,"(36.67, -87.48)",1000-1499,Non-electric,68,2000s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+281,"(36.68, -82.03)",1000-1499,Electric-resistance,68,<1940,1,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+282,"(36.7, -76.9)",1000-1499,Non-electric,55,1980s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+283,"(36.729, -97.1)",1000-1499,Non-electric,72,1960s,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+284,"(36.75, -108.23)",1000-1499,Non-electric,68,1980s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+285,"(36.767, -96.017)",1000-1499,Non-electric,68,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+286,"(36.77, -90.47)",1500-1999,Non-electric,70,1970s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+287,"(36.77, -80.82)",1000-1499,Electric-resistance,68,1970s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+288,"(36.78, -119.72)",1500-1999,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,avg,Yes
+289,"(36.82, -76.03)",2500-3499,Non-electric,68,1980s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+290,"(36.9, -81.35)",1500-1999,Electric-resistance,70,1970s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,high,Yes
+291,"(36.9, -76.2)",1500-1999,Non-electric,68,1990s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+292,"(36.95, -76.28)",1500-1999,Non-electric,68,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+293,"(36.98, -86.43)",1000-1499,Non-electric,68,1970s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+294,"(36.98, -82.53)",1000-1499,Electric-resistance,70,1970s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+295,"(37.03, -100.97)",1000-1499,Non-electric,68,1960s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+296,"(37.05, -88.77)",1000-1499,Non-electric,68,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+297,"(37.08, -113.6)",2500-3499,Non-electric,70,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+298,"(37.08, -84.08)",1000-1499,Electric-resistance,70,1970s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+299,"(37.08, -76.35)",1000-1499,Non-electric,70,1960s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+300,"(37.13, -76.5)",1500-1999,Non-electric,68,1990s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+301,"(37.133, -80.683)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+302,"(37.15, -107.75)",1000-1499,Non-electric,55,1990s,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+303,"(37.15, -94.5)",1000-1499,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+304,"(37.18, -77.52)",1500-1999,Electric-resistance,70,1980s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,high,Yes
+305,"(37.22, -80.42)",1000-1499,Electric-resistance,70,1970s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,high,Yes
+306,"(37.23, -93.38)",2500-3499,Non-electric,70,2000s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+307,"(37.23, -89.57)",1500-1999,Non-electric,70,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+308,"(37.233, -89.567)",1500-1999,Non-electric,70,1990s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+309,"(37.27, -104.33)",1000-1499,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,high,78,LED_CFL,avg,Yes
+310,"(37.27, -81.24)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+311,"(37.28, -120.52)",1500-1999,Non-electric,72,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,avg,Yes
+312,"(37.3, -108.63)",1500-1999,Non-electric,55,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+313,"(37.32, -79.97)",1000-1499,Non-electric,68,1970s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+314,"(37.33, -79.2)",1500-1999,Electric-resistance,68,1970s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,high,Yes
+315,"(37.35, -78.43)",1000-1499,Electric-resistance,55,1970s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+316,"(37.37, -121.93)",1500-1999,Non-electric,68,1960s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+317,"(37.37, -118.35)",1000-1499,Non-electric,55,1980s,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+318,"(37.43, -105.87)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+319,"(37.52, -77.32)",1500-1999,Non-electric,68,1950s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+320,"(37.58, -83.32)",1000-1499,Electric-resistance,68,1980s,1,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+321,"(37.583, -109.483)",2000-2499,Non-electric,55,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+322,"(37.583, -83.317)",1000-1499,Non-electric,68,1970s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+323,"(37.62, -122.4)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+324,"(37.62, -97.27)",1000-1499,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+325,"(37.63, -120.95)",1000-1499,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,avg,Yes
+326,"(37.65, -97.43)",1000-1499,Non-electric,68,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+327,"(37.65, -75.77)",1500-1999,Electric-resistance,55,2000s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,high,Yes
+328,"(37.67, -122.12)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+329,"(37.67, -95.48)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+330,"(37.7, -113.1)",1000-1499,Non-electric,55,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+331,"(37.7, -112.15)",1000-1499,Non-electric,70,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+332,"(37.75, -97.22)",2500-3499,Non-electric,68,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+333,"(37.75, -92.15)",1000-1499,Non-electric,55,2000s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+334,"(37.75, -89.017)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+335,"(37.764, -90.428)",1000-1499,Non-electric,70,1970s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+336,"(37.77, -99.97)",1500-1999,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,Incandescent,avg,Yes
+337,"(37.77, -89.25)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+338,"(37.8, -81.12)",1000-1499,Non-electric,55,<1940,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+339,"(37.82, -87.68)",1500-1999,Non-electric,70,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+340,"(37.867, -80.4)",1500-1999,Non-electric,55,1970s,1,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+341,"(37.9, -121.23)",1000-1499,Non-electric,70,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+342,"(37.9, -85.97)",1500-1999,Non-electric,68,1970s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,high,Yes
+343,"(37.93, -100.72)",1500-1999,Non-electric,68,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+344,"(37.95, -79.83)",1500-1999,Non-electric,68,1950s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+345,"(38.0, -122.05)",1500-1999,Non-electric,68,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,avg,Yes
+346,"(38.0, -84.6)",1000-1499,Non-electric,68,1990s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+347,"(38.03, -84.6)",1000-1499,Non-electric,70,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+348,"(38.05, -103.53)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+349,"(38.05, -97.28)",2500-3499,Non-electric,68,1990s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+350,"(38.05, -87.53)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+351,"(38.067, -97.867)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+352,"(38.07, -102.68)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,low,75,LED_CFL,avg,Yes
+353,"(38.1, -92.55)",1500-1999,Electric-resistance,55,1980s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+354,"(38.13, -91.77)",1500-1999,Non-electric,68,1960s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+355,"(38.133, -91.767)",1500-1999,Non-electric,68,1970s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+356,"(38.133, -78.45)",1000-1499,Non-electric,70,2000s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+357,"(38.18, -85.73)",1500-1999,Non-electric,68,2000s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+358,"(38.22, -122.28)",1500-1999,Non-electric,68,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+359,"(38.23, -85.67)",1500-1999,Non-electric,68,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+360,"(38.25, -86.95)",1000-1499,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+361,"(38.27, -121.93)",1500-1999,Non-electric,70,1980s,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,avg,Yes
+362,"(38.27, -78.9)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+363,"(38.27, -77.45)",2500-3499,Non-electric,68,2000s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+364,"(38.28, -104.5)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+365,"(38.3, -76.42)",2500-3499,Non-electric,68,2000s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,high,Yes
+366,"(38.32, -88.87)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+367,"(38.33, -75.52)",1500-1999,Non-electric,68,1980s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+368,"(38.333, -96.183)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+369,"(38.333, -75.517)",1500-1999,Non-electric,55,2000s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+370,"(38.35, -98.87)",1000-1499,Non-electric,68,<1940,1,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+371,"(38.38, -82.55)",1000-1499,Non-electric,68,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+372,"(38.38, -81.58)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+373,"(38.416, -110.703)",2000-2499,Non-electric,68,1970s,1,Single-Family Detached,Non-electric Water Heater,high,75,LED_CFL,avg,Yes
+374,"(38.5, -121.5)",1500-1999,Non-electric,70,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,avg,Yes
+375,"(38.5, -107.9)",1000-1499,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+376,"(38.5, -77.3)",1500-1999,Electric-resistance,70,1990s,3,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+377,"(38.52, -122.82)",1000-1499,Non-electric,68,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+378,"(38.53, -106.93)",1500-1999,Non-electric,55,1990s,2,Single-Family Detached,Non-electric Water Heater,avg,68,LED_CFL,avg,Yes
+379,"(38.55, -89.85)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+380,"(38.57, -90.15)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+381,"(38.58, -92.15)",1000-1499,Non-electric,68,1970s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+382,"(38.65, -90.65)",2500-3499,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+383,"(38.7, -121.58)",1500-1999,Non-electric,70,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+384,"(38.72, -93.55)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+385,"(38.72, -77.52)",2500-3499,Non-electric,70,2000s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+386,"(38.72, -77.18)",2500-3499,Non-electric,68,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+387,"(38.75, -90.37)",1500-1999,Non-electric,68,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+388,"(38.755, -109.755)",2500-3499,Non-electric,55,2000s,1,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+389,"(38.82, -104.72)",1500-1999,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+390,"(38.82, -97.67)",1500-1999,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+391,"(38.82, -92.22)",1500-1999,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+392,"(38.82, -76.87)",2500-3499,Non-electric,68,1960s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+393,"(38.833, -94.883)",2000-2499,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+394,"(38.85, -99.27)",1000-1499,Non-electric,68,<1940,1,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+395,"(38.85, -94.73)",2500-3499,Non-electric,68,1990s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+396,"(38.87, -77.03)",2500-3499,Non-electric,68,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+397,"(38.88, -98.82)",1000-1499,Non-electric,68,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+398,"(38.88, -79.85)",1000-1499,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+399,"(38.9, -120.0)",1500-1999,Non-electric,55,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,avg,Yes
+400,"(38.95, -95.67)",1500-1999,Non-electric,68,1960s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+401,"(39.0, -74.92)",1500-1999,Non-electric,55,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+402,"(39.05, -96.77)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+403,"(39.05, -84.67)",1500-1999,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+404,"(39.07, -95.63)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+405,"(39.08, -77.57)",2500-3499,Non-electric,68,2000s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+406,"(39.1, -121.567)",1500-1999,Non-electric,70,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,avg,Yes
+407,"(39.1, -84.42)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+408,"(39.12, -94.6)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+409,"(39.13, -123.2)",1000-1499,Non-electric,68,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+410,"(39.13, -121.43)",1500-1999,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,avg,Yes
+411,"(39.13, -108.53)",1500-1999,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+412,"(39.13, -96.67)",2500-3499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+413,"(39.13, -86.62)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+414,"(39.13, -75.47)",1000-1499,Non-electric,68,2000s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+415,"(39.15, -78.15)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+416,"(39.17, -76.68)",2500-3499,Non-electric,68,1950s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+417,"(39.18, -103.72)",1000-1499,Electric-resistance,65,1970s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,No
+418,"(39.217, -106.317)",2500-3499,Non-electric,55,1990s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+419,"(39.22, -106.87)",1000-1499,Non-electric,55,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,68,LED_CFL,avg,Yes
+420,"(39.28, -80.23)",1000-1499,Non-electric,68,<1940,1,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+421,"(39.3, -114.85)",2000-2499,Non-electric,72,1990s,2,Single-Family Detached,Non-electric Water Heater,high,75,LED_CFL,avg,Yes
+422,"(39.3, -94.72)",2500-3499,Non-electric,68,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+423,"(39.32, -120.13)",1000-1499,Non-electric,55,1980s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+424,"(39.35, -81.43)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+425,"(39.37, -101.7)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,Incandescent,avg,Yes
+426,"(39.37, -75.08)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+427,"(39.38, -99.83)",1000-1499,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+428,"(39.382, -112.51)",1500-1999,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+429,"(39.4, -77.98)",1000-1499,Non-electric,70,2000s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,high,Yes
+430,"(39.42, -118.72)",1500-1999,Non-electric,68,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+431,"(39.45, -87.3)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+432,"(39.45, -74.57)",2500-3499,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+433,"(39.48, -119.77)",1500-1999,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+434,"(39.53, -107.72)",1500-1999,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+435,"(39.55, -97.65)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+436,"(39.65, -106.92)",1000-1499,Non-electric,55,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+437,"(39.65, -79.92)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+438,"(39.67, -75.6)",2500-3499,Non-electric,68,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+439,"(39.7, -77.733)",1000-1499,Non-electric,70,<1940,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+440,"(39.72, -104.75)",2500-3499,Non-electric,70,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+441,"(39.72, -86.27)",2500-3499,Non-electric,68,1990s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+442,"(39.74, -105.18)",2500-3499,Non-electric,68,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+443,"(39.767, -94.9)",1000-1499,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+444,"(39.83, -88.87)",1000-1499,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+445,"(39.83, -84.05)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+446,"(39.85, -89.68)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+447,"(39.87, -75.23)",1000-1499,Non-electric,70,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+448,"(39.9, -84.22)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+449,"(39.93, -91.2)",1500-1999,Non-electric,70,<1940,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+450,"(39.933, -91.2)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+451,"(39.95, -81.9)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+452,"(39.98, -82.88)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+453,"(40.06, -88.37)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+454,"(40.07, -118.55)",1500-1999,Non-electric,68,1980s,2,Single-Family Detached,Electric Standard,avg,78,LED_CFL,avg,Yes
+455,"(40.07, -83.07)",2500-3499,Non-electric,68,1990s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+456,"(40.08, -75.02)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+457,"(40.083, -95.6)",2500-3499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+458,"(40.1, -92.55)",2000-2499,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+459,"(40.117, -76.3)",1500-1999,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+460,"(40.13, -105.24)",2500-3499,Non-electric,68,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+461,"(40.13, -80.28)",2500-3499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+462,"(40.15, -122.25)",1000-1499,Non-electric,68,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+463,"(40.17, -103.23)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+464,"(40.18, -74.07)",2500-3499,Non-electric,68,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+465,"(40.183, -80.65)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+466,"(40.2, -100.58)",2000-2499,Non-electric,70,1950s,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+467,"(40.2, -75.15)",2500-3499,Non-electric,68,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+468,"(40.22, -111.72)",2500-3499,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+469,"(40.22, -76.85)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+470,"(40.233, -85.4)",1000-1499,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+471,"(40.28, -74.82)",1500-1999,Non-electric,70,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+472,"(40.3, -96.75)",2500-3499,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+473,"(40.3, -78.32)",2000-2499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+474,"(40.32, -78.83)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+475,"(40.35, -79.92)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+476,"(40.37, -75.97)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+477,"(40.42, -86.93)",1500-1999,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+478,"(40.43, -109.52)",1000-1499,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+479,"(40.43, -104.63)",2500-3499,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+480,"(40.45, -105.02)",2500-3499,Non-electric,70,1990s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+481,"(40.45, -99.33)",1000-1499,Non-electric,68,<1940,1,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+482,"(40.467, -88.917)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+483,"(40.47, -91.43)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+484,"(40.48, -107.22)",2500-3499,Non-electric,70,1990s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+485,"(40.5, -107.53)",1000-1499,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+486,"(40.5, -80.23)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+487,"(40.51, -101.62)",2000-2499,Non-electric,68,<1940,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+488,"(40.52, -122.32)",1500-1999,Non-electric,70,1990s,2,Single-Family Detached,Non-electric Water Heater,avg,78,LED_CFL,avg,Yes
+489,"(40.6, -98.43)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+490,"(40.65, -86.15)",1500-1999,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+491,"(40.65, -75.45)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+492,"(40.67, -89.68)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+493,"(40.717, -95.033)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+494,"(40.72, -77.93)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+495,"(40.72, -74.18)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+496,"(40.72, -73.42)",1500-1999,Non-electric,68,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+497,"(40.73, -99.0)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+498,"(40.75, -95.417)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,high,Yes
+499,"(40.77, -111.97)",2500-3499,Non-electric,68,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+500,"(40.7793, -73.9691)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+501,"(40.78, -79.95)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+502,"(40.78, -73.97)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+503,"(40.78, -73.88)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+504,"(40.783, -91.117)",1500-1999,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+505,"(40.79, -73.1)",1500-1999,Non-electric,68,1960s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+506,"(40.817, -82.517)",1000-1499,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+507,"(40.82, -82.52)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+508,"(40.83, -115.8)",1000-1499,Non-electric,70,2000s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+509,"(40.83, -96.77)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+510,"(40.85, -74.07)",2500-3499,Non-electric,68,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+511,"(40.883, -74.283)",1000-1499,Non-electric,68,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+512,"(40.9, -117.8)",1000-1499,Non-electric,55,1990s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,high,Yes
+513,"(40.92, -81.43)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+514,"(40.97, -98.32)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+515,"(40.98, -124.1)",1500-1999,Non-electric,68,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+516,"(41.0, -85.2)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+517,"(41.017, -95.267)",1500-1999,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,low,75,LED_CFL,avg,Yes
+518,"(41.02, -94.37)",1500-1999,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+519,"(41.02, -83.67)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+520,"(41.03, -93.37)",1000-1499,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+521,"(41.05, -91.98)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+522,"(41.07, -73.72)",2500-3499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+523,"(41.1, -102.98)",2000-2499,Non-electric,67,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+524,"(41.1, -92.45)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+525,"(41.12, -111.97)",2500-3499,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+526,"(41.12, -100.67)",1500-1999,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+527,"(41.12, -95.92)",1500-1999,Non-electric,70,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+528,"(41.15, -104.8)",1500-1999,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+529,"(41.17, -71.58)",1000-1499,Non-electric,68,1980s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+530,"(41.18, -78.9)",1000-1499,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+531,"(41.2, -112.017)",2500-3499,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+532,"(41.25, -80.67)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+533,"(41.25, -76.92)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+534,"(41.25, -70.067)",1000-1499,Non-electric,55,1950s,2,Single-Family Detached,Non-electric Water Heater,high,70,LED_CFL,avg,Yes
+535,"(41.267, -95.767)",1000-1499,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+536,"(41.267, -72.883)",1000-1499,Non-electric,68,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+537,"(41.28, -91.67)",2500-3499,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+538,"(41.283, -111.033)",1000-1499,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+539,"(41.3, -93.117)",2000-2499,Non-electric,68,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+540,"(41.32, -105.68)",1000-1499,Non-electric,70,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+541,"(41.32, -95.9)",1000-1499,Non-electric,72,<1940,1,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+542,"(41.33, -75.73)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+543,"(41.333, -72.05)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+544,"(41.367, -91.15)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+545,"(41.367, -73.483)",1500-1999,Non-electric,68,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+546,"(41.37, -96.02)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+547,"(41.38, -79.87)",1500-1999,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+548,"(41.4, -95.05)",1000-1499,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+549,"(41.4, -81.85)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+550,"(41.4, -70.62)",2000-2499,Non-electric,55,1980s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+551,"(41.433, -99.65)",1500-1999,Non-electric,68,<1940,1,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+552,"(41.45, -97.33)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+553,"(41.45, -96.52)",1500-1999,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+554,"(41.46, -109.44)",1500-1999,Non-electric,68,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+555,"(41.47, -90.52)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+556,"(41.48, -73.13)",2000-2499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+557,"(41.5, -120.53)",1000-1499,Non-electric,55,1980s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,high,Yes
+558,"(41.5, -74.1)",1500-1999,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+559,"(41.517, -81.683)",1000-1499,Non-electric,68,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+560,"(41.53, -93.67)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+561,"(41.58, -83.8)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+562,"(41.617, -98.95)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+563,"(41.633, -73.883)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+564,"(41.67, -70.95)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+565,"(41.67, -70.28)",1000-1499,Non-electric,55,1980s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+566,"(41.683, -93.017)",1000-1499,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+567,"(41.7, -86.33)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+568,"(41.7, -74.8)",1000-1499,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+569,"(41.72, -71.43)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+570,"(41.73, -72.65)",1000-1499,Non-electric,68,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+571,"(41.75, -89.67)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+572,"(41.77, -96.17)",1000-1499,Non-electric,72,<1940,2,Single-Family Detached,Non-electric Water Heater,low,70,LED_CFL,avg,Yes
+573,"(41.77, -88.47)",1000-1499,Non-electric,70,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+574,"(41.78, -124.23)",1000-1499,Non-electric,68,1970s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+575,"(41.78, -122.47)",1000-1499,Non-electric,55,1990s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+576,"(41.78, -87.75)",1000-1499,Non-electric,68,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+577,"(41.8, -107.2)",1500-1999,Non-electric,68,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+578,"(41.8, -78.63)",1500-1999,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+579,"(41.83, -90.33)",2000-2499,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+580,"(41.87, -103.6)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+581,"(41.88, -91.72)",2500-3499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+582,"(41.92, -88.25)",2500-3499,Non-electric,70,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+583,"(41.92, -71.5)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+584,"(41.92, -70.73)",2000-2499,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+585,"(41.98, -97.43)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+586,"(41.983, -95.383)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,No
+587,"(42.05, -102.8)",1000-1499,Non-electric,70,1960s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+588,"(42.05, -94.78)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+589,"(42.05, -93.85)",2500-3499,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+590,"(42.08, -80.18)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+591,"(42.13, -86.43)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+592,"(42.15, -112.283)",2500-3499,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+593,"(42.15, -79.27)",1500-1999,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+594,"(42.17, -120.4)",1000-1499,Non-electric,70,1940s,1,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+595,"(42.17, -76.9)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+596,"(42.18, -71.18)",2500-3499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+597,"(42.19, -122.7)",1000-1499,Non-electric,68,2000s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+598,"(42.2, -89.1)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+599,"(42.2, -75.98)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+600,"(42.2, -72.533)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+601,"(42.217, -83.75)",2500-3499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+602,"(42.22, -121.74)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+603,"(42.22, -83.35)",1000-1499,Non-electric,68,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+604,"(42.23, -85.55)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+605,"(42.23, -83.53)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+606,"(42.233, -91.167)",1500-1999,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+607,"(42.267, -71.883)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+608,"(42.27, -84.47)",1000-1499,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+609,"(42.27, -71.88)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+610,"(42.3, -85.25)",1000-1499,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+611,"(42.37, -71.02)",2500-3499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+612,"(42.38, -96.38)",1000-1499,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+613,"(42.4, -90.7)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+614,"(42.417, -87.867)",2500-3499,Non-electric,68,1990s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+615,"(42.43, -93.87)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+616,"(42.47, -98.68)",<1000,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+617,"(42.53, -113.77)",1000-1499,Non-electric,70,2000s,2,Single-Family Detached,Non-electric Water Heater,low,72,LED_CFL,avg,Yes
+618,"(42.55, -114.35)",1000-1499,Non-electric,68,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+619,"(42.55, -94.18)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+620,"(42.55, -92.4)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+621,"(42.58, -100.0)",1000-1499,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+622,"(42.583, -70.917)",2500-3499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+623,"(42.6, -123.37)",1000-1499,Non-electric,70,1970s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+624,"(42.6, -95.23)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+625,"(42.617, -89.033)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+626,"(42.62, -82.83)",1000-1499,Non-electric,68,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+627,"(42.63, -83.98)",1500-1999,Non-electric,70,1990s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+628,"(42.65, -111.583)",1000-1499,Non-electric,68,1970s,2,Single-Family Detached,Electric Standard,high,72,LED_CFL,avg,Yes
+629,"(42.67, -83.42)",2500-3499,Non-electric,68,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+630,"(42.683, -91.967)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+631,"(42.7, -73.167)",1000-1499,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+632,"(42.72, -71.12)",2500-3499,Non-electric,68,1980s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+633,"(42.75, -73.8)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+634,"(42.78, -84.58)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+635,"(42.783, -96.2)",2500-3499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+636,"(42.833, -103.083)",1500-1999,Non-electric,70,1940s,2,Single-Family Detached,Non-electric Water Heater,high,72,LED_CFL,avg,Yes
+637,"(42.87, -100.55)",1500-1999,Non-electric,55,1960s,1,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+638,"(42.88, -85.52)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+639,"(42.9, -106.47)",1500-1999,Non-electric,68,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+640,"(42.9, -72.27)",2000-2499,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+641,"(42.92, -112.57)",1000-1499,Non-electric,68,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+642,"(42.92, -97.38)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+643,"(42.92, -82.53)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+644,"(42.93, -78.73)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+645,"(42.93, -71.43)",2500-3499,Non-electric,68,1980s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+646,"(42.95, -87.9)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+647,"(42.97, -83.75)",1000-1499,Non-electric,68,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+648,"(42.983, -96.067)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+649,"(43.05, -115.87)",1000-1499,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+650,"(43.05, -108.45)",1500-1999,Non-electric,68,1980s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+651,"(43.07, -92.62)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+652,"(43.08, -70.82)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+653,"(43.083, -94.267)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+654,"(43.1, -78.95)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+655,"(43.12, -77.68)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+656,"(43.12, -76.1)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+657,"(43.13, -89.33)",2500-3499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+658,"(43.15, -93.33)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+659,"(43.15, -75.38)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+660,"(43.17, -95.15)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+661,"(43.17, -88.72)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+662,"(43.17, -86.23)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+663,"(43.2, -90.183)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+664,"(43.2, -71.5)",2000-2499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+665,"(43.217, -95.833)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+666,"(43.233, -123.35)",1000-1499,Non-electric,68,1970s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+667,"(43.283, -91.733)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+668,"(43.35, -73.62)",1500-1999,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+669,"(43.35, -73.617)",1500-1999,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+670,"(43.35, -72.52)",2000-2499,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+671,"(43.4, -94.75)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+672,"(43.4, -70.72)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+673,"(43.42, -124.25)",1500-1999,Electric-resistance,70,1960s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+674,"(43.5, -114.3)",1000-1499,Non-electric,68,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+675,"(43.52, -119.02)",1000-1499,Non-electric,70,1990s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+676,"(43.52, -112.07)",1500-1999,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+677,"(43.52, -72.95)",2000-2499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+678,"(43.53, -84.08)",1000-1499,Non-electric,70,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+679,"(43.57, -71.42)",2500-3499,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+680,"(43.58, -96.75)",2500-3499,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+681,"(43.6, -110.73)",1500-1999,Non-electric,68,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+682,"(43.62, -116.21)",2500-3499,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+683,"(43.63, -116.63)",1000-1499,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+684,"(43.63, -72.3)",1000-1499,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+685,"(43.65, -95.58)",2000-2499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+686,"(43.65, -94.42)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+687,"(43.65, -70.3)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+688,"(43.67, -92.93)",1500-1999,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+689,"(43.68, -93.37)",2500-3499,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+690,"(43.77, -98.03)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+691,"(43.87, -91.25)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+692,"(43.9, -92.5)",2500-3499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+693,"(43.9, -69.93)",1000-1499,Non-electric,72,<1940,2,Single-Family Detached,Non-electric Water Heater,low,72,LED_CFL,avg,Yes
+694,"(43.97, -107.95)",1500-1999,Non-electric,68,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+695,"(43.97, -69.72)",1000-1499,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+696,"(43.98, -96.32)",2500-3499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+697,"(43.98, -88.55)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+698,"(44.0, -76.02)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+699,"(44.05, -123.07)",1500-1999,Electric-resistance,68,1970s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+700,"(44.05, -103.05)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,Incandescent,avg,Yes
+701,"(44.05, -75.72)",1500-1999,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+702,"(44.05, -70.28)",2000-2499,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+703,"(44.07, -69.1)",2000-2499,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+704,"(44.08, -91.7)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+705,"(44.12, -93.25)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+706,"(44.13, -87.68)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+707,"(44.15, -103.1)",2500-3499,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+708,"(44.2, -72.57)",2000-2499,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+709,"(44.22, -93.92)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+710,"(44.25, -121.17)",1500-1999,Non-electric,68,2000s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+711,"(44.25, -121.167)",1000-1499,Non-electric,70,1990s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+712,"(44.25, -88.52)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+713,"(44.27, -86.25)",1000-1499,Non-electric,55,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+714,"(44.28, -85.42)",1000-1499,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+715,"(44.3, -96.82)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+716,"(44.32, -94.5)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+717,"(44.32, -69.8)",2000-2499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+718,"(44.33, -93.32)",1000-1499,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+719,"(44.35, -105.53)",1000-1499,Non-electric,70,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+720,"(44.37, -84.68)",1000-1499,Non-electric,55,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+721,"(44.38, -100.28)",1000-1499,Non-electric,68,<1940,1,Single-Family Detached,Electric Standard,avg,72,Incandescent,avg,Yes
+722,"(44.383, -74.2)",2500-3499,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+723,"(44.4, -98.22)",1500-1999,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+724,"(44.45, -95.82)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+725,"(44.45, -83.4)",1500-1999,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+726,"(44.45, -68.37)",2000-2499,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+727,"(44.47, -73.15)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+728,"(44.48, -123.28)",1500-1999,Non-electric,68,1970s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+729,"(44.48, -88.13)",1000-1499,Non-electric,68,1990s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+730,"(44.52, -109.02)",1500-1999,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+731,"(44.53, -69.68)",2000-2499,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+732,"(44.55, -95.08)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+733,"(44.58, -92.48)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+734,"(44.58, -71.18)",2500-3499,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+735,"(44.63, -90.18)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+736,"(44.73, -85.58)",1500-1999,Non-electric,55,1990s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+737,"(44.77, -106.97)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+738,"(44.78, -89.67)",1000-1499,Non-electric,68,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+739,"(44.8, -68.82)",2000-2499,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+740,"(44.8, -68.817)",1000-1499,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+741,"(44.82, -93.45)",2500-3499,Non-electric,68,1990s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+742,"(44.83, -117.82)",1000-1499,Non-electric,68,1990s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+743,"(44.85, -93.15)",2500-3499,Non-electric,68,1990s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+744,"(44.85, -87.42)",1000-1499,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+745,"(44.87, -94.38)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+746,"(44.87, -91.48)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+747,"(44.9, -123.0)",1500-1999,Non-electric,68,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+748,"(44.92, -89.63)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+749,"(44.93, -97.15)",2000-2499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+750,"(44.93, -93.05)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+751,"(44.93, -74.85)",2000-2499,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+752,"(45.07, -93.35)",2500-3499,Non-electric,68,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+753,"(45.07, -83.58)",1500-1999,Non-electric,55,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+754,"(45.1, -94.5)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,Incandescent,avg,Yes
+755,"(45.12, -113.88)",1000-1499,Non-electric,55,1970s,2,Single-Family Detached,Electric Standard,avg,68,LED_CFL,avg,Yes
+756,"(45.12, -95.08)",1500-1999,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+757,"(45.13, -87.63)",1500-1999,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+758,"(45.25, -122.77)",1500-1999,Non-electric,68,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+759,"(45.28, -118.0)",1000-1499,Non-electric,70,<1940,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+760,"(45.32, -95.65)",1000-1499,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+761,"(45.45, -98.42)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,Incandescent,avg,Yes
+762,"(45.48, -91.72)",1000-1499,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+763,"(45.53, -122.95)",1500-1999,Non-electric,68,1990s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+764,"(45.53, -100.43)",2500-3499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,Incandescent,avg,Yes
+765,"(45.55, -94.05)",2500-3499,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+766,"(45.57, -95.97)",2500-3499,Non-electric,55,1950s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+767,"(45.57, -93.27)",2000-2499,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+768,"(45.57, -84.78)",1000-1499,Non-electric,55,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+769,"(45.6, -122.62)",1500-1999,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+770,"(45.617, -121.15)",1000-1499,Non-electric,70,<1940,2,Single-Family Detached,Electric Standard,avg,75,LED_CFL,avg,Yes
+771,"(45.633, -89.467)",1500-1999,Non-electric,55,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+772,"(45.65, -95.32)",2500-3499,Non-electric,55,1940s,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+773,"(45.7, -118.83)",1500-1999,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+774,"(45.7, -110.45)",1000-1499,Non-electric,70,1990s,1,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+775,"(45.7, -96.5)",1500-1999,Non-electric,70,<1940,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+776,"(45.7, -90.4)",1500-1999,Non-electric,55,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+777,"(45.75, -87.03)",1500-1999,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+778,"(45.8, -111.15)",2000-2499,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+779,"(45.8, -108.55)",1000-1499,Non-electric,70,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+780,"(45.82, -88.12)",1500-1999,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,68,LED_CFL,avg,Yes
+781,"(45.88, -95.4)",1500-1999,Non-electric,55,<1940,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+782,"(45.88, -93.27)",2500-3499,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+783,"(45.933, -89.733)",1000-1499,Non-electric,55,1980s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+784,"(45.95, -112.5)",1000-1499,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+785,"(45.95, -94.35)",2500-3499,Non-electric,55,2000s,2,Single-Family Detached,Non-electric Water Heater,high,72,LED_CFL,avg,Yes
+786,"(46.1, -118.28)",1500-1999,Non-electric,70,<1940,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+787,"(46.13, -122.9)",1000-1499,Electric-resistance,70,<1940,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,No
+788,"(46.15, -123.88)",1000-1499,Non-electric,55,<1940,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+789,"(46.25, -84.47)",1000-1499,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+790,"(46.27, -119.12)",1500-1999,Electric-resistance,70,2000s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+791,"(46.27, -92.57)",1000-1499,Non-electric,55,1990s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+792,"(46.28, -96.15)",2500-3499,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,68,LED_CFL,avg,Yes
+793,"(46.37, -117.02)",1000-1499,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+794,"(46.4, -94.13)",1000-1499,Non-electric,55,1990s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+795,"(46.43, -105.88)",1000-1499,Non-electric,68,1970s,2,Single-Family Detached,Non-electric Water Heater,high,70,LED_CFL,avg,Yes
+796,"(46.47, -84.35)",1000-1499,Non-electric,55,1990s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+797,"(46.483, -122.8)",1500-1999,Electric-resistance,68,<1940,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+798,"(46.53, -90.13)",1000-1499,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+799,"(46.55, -93.68)",2500-3499,Non-electric,55,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+800,"(46.57, -120.55)",1000-1499,Electric-resistance,70,1950s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,high,Yes
+801,"(46.6, -111.97)",1500-1999,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+802,"(46.68, -68.05)",2000-2499,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+803,"(46.7, -92.5)",1000-1499,Non-electric,55,2000s,2,Single-Family Detached,Electric Standard,avg,68,LED_CFL,avg,Yes
+804,"(46.75, -117.12)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+805,"(46.77, -100.77)",2500-3499,Non-electric,68,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+806,"(46.8, -102.8)",1500-1999,Non-electric,68,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+807,"(46.83, -95.88)",1000-1499,Non-electric,70,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+808,"(46.83, -92.22)",1500-1999,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,68,LED_CFL,avg,Yes
+809,"(46.9, -95.07)",1000-1499,Non-electric,55,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+810,"(46.92, -114.1)",1000-1499,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+811,"(46.92, -98.68)",1000-1499,Non-electric,70,<1940,2,Single-Family Detached,Electric Standard,avg,68,Incandescent,avg,Yes
+812,"(46.93, -96.82)",2500-3499,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+813,"(46.97, -122.9)",1500-1999,Non-electric,68,2000s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+814,"(46.98, -123.93)",1000-1499,Electric-resistance,70,<1940,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+815,"(47.05, -109.45)",1500-1999,Non-electric,55,1950s,2,Single-Family Detached,Non-electric Water Heater,high,75,LED_CFL,avg,Yes
+816,"(47.13, -104.8)",1000-1499,Non-electric,67,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+817,"(47.15, -122.48)",1500-1999,Non-electric,70,2000s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+818,"(47.17, -88.5)",1000-1499,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+819,"(47.2, -119.317)",1500-1999,Electric-resistance,70,2000s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+820,"(47.2, -91.4)",1000-1499,Non-electric,55,<1940,2,Single-Family Detached,Electric Standard,avg,68,LED_CFL,avg,Yes
+821,"(47.22, -93.52)",1000-1499,Non-electric,55,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,68,LED_CFL,avg,Yes
+822,"(47.3, -119.52)",1500-1999,Non-electric,70,2000s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+823,"(47.4, -120.2)",1500-1999,Electric-resistance,70,1990s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,high,Yes
+824,"(47.47, -111.38)",1000-1499,Non-electric,68,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+825,"(47.48, -122.75)",1500-1999,Non-electric,68,1990s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+826,"(47.491, -122.216)",1500-1999,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+827,"(47.5, -94.93)",1000-1499,Non-electric,55,2000s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+828,"(47.58, -95.77)",1500-1999,Non-electric,70,2000s,2,Single-Family Detached,Non-electric Water Heater,low,70,LED_CFL,avg,Yes
+829,"(47.63, -117.65)",1000-1499,Non-electric,55,1990s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+830,"(47.68, -117.32)",1000-1499,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+831,"(47.7, -104.2)",1000-1499,Non-electric,65,1960s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+832,"(47.77, -116.82)",1500-1999,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+833,"(47.85, -96.62)",2500-3499,Non-electric,70,1950s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+834,"(47.9, -122.28)",1500-1999,Non-electric,70,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+835,"(47.95, -97.183)",2500-3499,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,low,68,LED_CFL,avg,Yes
+836,"(47.95, -97.18)",1000-1499,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+837,"(47.97, -97.4)",2500-3499,Non-electric,70,<1940,4,Single-Family Detached,Electric Standard,avg,68,LED_CFL,avg,Yes
+838,"(48.07, -96.18)",1500-1999,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+839,"(48.12, -123.5)",1000-1499,Electric-resistance,68,1990s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+840,"(48.12, -98.92)",1000-1499,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,68,LED_CFL,avg,Yes
+841,"(48.2, -103.65)",2500-3499,Non-electric,70,1970s,2,Single-Family Detached,Non-electric Water Heater,avg,68,LED_CFL,avg,Yes
+842,"(48.22, -106.62)",1000-1499,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+843,"(48.27, -101.28)",1000-1499,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,68,LED_CFL,avg,Yes
+844,"(48.308, -105.102)",1500-1999,Non-electric,67,1970s,3,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+845,"(48.32, -114.25)",1000-1499,Non-electric,68,2000s,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+846,"(48.35, -122.67)",1000-1499,Non-electric,68,1970s,2,Single-Family Detached,Electric Standard,avg,70,LED_CFL,avg,Yes
+847,"(48.35, -122.667)",1000-1499,Non-electric,68,1990s,2,Single-Family Detached,Electric Standard,avg,72,LED_CFL,avg,Yes
+848,"(48.42, -101.35)",2500-3499,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,high,70,LED_CFL,avg,Yes
+849,"(48.55, -109.77)",1000-1499,Non-electric,68,1960s,1,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+850,"(48.57, -93.4)",1500-1999,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+851,"(48.6, -112.37)",1000-1499,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,75,LED_CFL,avg,Yes
+852,"(48.6, -112.367)",<1000,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,avg,Yes
+853,"(48.72, -94.6)",1000-1499,Electric-resistance,70,1960s,2,Single-Family Detached,Non-electric Water Heater,avg,68,LED_CFL,avg,No
+854,"(48.78, -96.95)",1000-1499,Non-electric,55,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,70,LED_CFL,high,Yes
+855,"(48.8, -122.53)",1500-1999,Non-electric,70,1990s,2,Single-Family Detached,Non-electric Water Heater,avg,72,LED_CFL,avg,Yes
+856,"(48.85, -95.7)",2000-2499,Non-electric,70,<1940,2,Single-Family Detached,Non-electric Water Heater,avg,68,LED_CFL,avg,No
