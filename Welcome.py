@@ -23,6 +23,7 @@ st.markdown(
     - Your address and data will **never** be stored.
     - If you don't feel comfortable entering your address, you can enter your city/state or zip code. However, the accuracy of your results may be reduced if you don't enter your full address
     - If you don't feel comfortable answering a question or don't know the answer, select the 'Not sure' option.
+    - We display our estimate of your home's electric consumption as part of our outputs. We recommend that you compare the monthly value to a recent electric bill. If your bill is significantly different from our estimate, then the solar panel estimate we provide may not be accurate. Please update your inputs for a more accurate estimate.
 
 """
 )
