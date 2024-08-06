@@ -285,7 +285,7 @@ if st.session_state.address_submitted:
       if vintage == 'Not sure':
          vintage_model = st.session_state.vintage_mode
       elif vintage == ">2000s":
-	 vintage_model = '2010s'
+         vintage_model = '2010s'
       else:
          vintage_model = vintage
 
