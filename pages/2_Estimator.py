@@ -10,7 +10,8 @@ from category_encoders import TargetEncoder
 import xgboost
 import numpy as np
 import os
-from tensorflow.keras.models import load_model
+from tensorflow import keras
+import tensorflow as tf
 
 st.set_page_config(page_title="Estimate your solar power requirements")
 
