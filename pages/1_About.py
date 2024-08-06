@@ -55,7 +55,6 @@ st.markdown(
 )
 
 st.header("Data")
-st.image('National_Renewable_Energy_Laboratory_logo_(2_rows).jpg')
 st.markdown(
     """
     Our data comes from the **National Renewable Energy Laboratory (NREL)**'s Residential Building Simulation Database and the Solar Radiation Database. NREL is an organization under the U.S Department of Energy and provides comprehensive and authoritative datasets critical for advancing renewable energy technologies and energy efficiency.\n
