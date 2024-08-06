@@ -53,3 +53,15 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
+
+st.header("Data")
+st.image('National_Renewable_Energy_Laboratory_logo_(2_rows).jpg')
+st.markdown(
+    """
+    Our data comes from the **National Renewable Energy Laboratory (NREL)**'s Residential Building Simulation Database and the Solar Radiation Database. NREL is an organization under the U.S Department of Energy and provides comprehensive and authoritative datasets critical for advancing renewable energy technologies and energy efficiency.\n
+The Residential Building Simulation Database offers detailed information on energy use and efficiency in residential buildings, supporting analysis and modeling efforts aimed at improving home energy performance. The database is publicly available and consists building simulation outputs for residential stock of the whole country. The data is based on a decade worth of various national studies conducted by NREL in conjunction with multiple other government agencies.\n
+The Solar Radiation Database, part of the National Solar Radiation Database (NSRDB), supplies high-resolution solar radiation and meteorological data spanning the entire continental US from over two decades (1998-2019) at 30 min temporal resolution, essential for assessing solar energy potential and planning solar installations. These datasets are publicly accessible and maintained with rigorous standards, ensuring their reliability and relevance for research, development, and practical applications in the renewable energy sector.
+"""
+)
+
+
