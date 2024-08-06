@@ -141,8 +141,10 @@ def total_solar_panels(GHI, kwh_residential_usage, roof_area, state, rates_df):
         perc_energy_met = 100
         
     dollars_saved = round((perc_energy_met/100 * kwh_residential_usage) * elec_rate/100, 2)
+
+    kwh_monthly_prediction = round(kwh_residential_usage/12,2)
         
-    return f"You can install {final_n_solar_panels} solar panels on your roof, and it will meet {perc_energy_met}% of your total annual energy requirements! Also, you will save approx ${dollars_saved} per year."
+    return f"We estimated your average monthly electric consumption to be {kwh_monthly_prediction} kWh. You can install {final_n_solar_panels} solar panels on your roof, and it will meet {perc_energy_met}% of your total annual energy requirements! Also, you will save approx ${dollars_saved} per year."
 
 
 # Initialize session states for address form and default values
@@ -248,7 +250,7 @@ sqft_bin_mapping = {'<1,000 sqft':'<1000', '1,000-1,499 sqft':'1000-1499', '1,50
 heating_mapping = {'Electric - Heat pump':'Electric-HP', 'Electric - Boiler or furnace':'Electric-resistance', 'No Heating or Non-Electric - Fuel, gas, or propane boiler or furnace':'Non-electric'}
 washer_mapping = {'<5 loads per week':'low', '5-6 loads per week':'avg', '7+ loads per week':'high', 'Don\'t have a washing machine':'none'}
 sqft_avg_mapping = {'<1,000 sqft':500, '1,000-1,499 sqft':1250, '1,500-1,999 sqft':1750, '2,000-2,499 sqft':2250, '2,500-3,499 sqft':3000, '3,500+ sqft':4500}
-
+water_heater_mapping = {'Electric Resistance Standard': 'Electric Standard', 'Electric Resistance Premium':'Electric Premium', 'Electric Resistance Tankless':'Electric Tankless', 'Electric Heat Pump': 'Electric Heat Pump, 80 gal'}
 
 # Once address confirmed, move onto next questionairre
 if st.session_state.address_submitted:
@@ -279,9 +281,11 @@ if st.session_state.address_submitted:
       # Convert to m^2 for solar model
       roof_size_m2 = roof_size_sqft/10.764
 
-      vintage = st.selectbox('What year was your home built?', ['<1940','1940s', '1950s', '1960s', '1970s','1980s', '1990s', '2000s', '2010s', 'Not sure'])
+      vintage = st.selectbox('What year was your home built, or when was the last time there were significant changes made to the walls/roof/windows/foundation?', ['<1940','1940s', '1950s', '1960s', '1970s','1980s', '1990s', '2000s', '>2000s', 'Not sure'])
       if vintage == 'Not sure':
          vintage_model = st.session_state.vintage_mode
+      elif vintage == ">2000s":
+	 vintage_model = '2010s'
       else:
          vintage_model = vintage
 
@@ -299,13 +303,13 @@ if st.session_state.address_submitted:
       else:
          lighting_model = 'Incandescent'
 
-      water_heater = st.selectbox('What kind of water heater do you have?', ['Electric Standard', 'Electric Premium', 'Electric Tankless', 'Electric Heat Pump, 80 gal', 'No water heater or non-electric water heater', 'Not sure'])
+      water_heater = st.selectbox('What kind of water heater do you have?', ['Electric Resistance Standard', 'Electric Resistance Premium', 'Electric Resistance Tankless', 'Electric Heat Pump', 'No water heater or non-electric water heater', 'Not sure'])
       if water_heater == 'Not sure':
          water_heater_model = st.session_state.water_heater_mode
       elif water_heater == 'No water heater or non-electric water heater':
          water_heater_model = 'Non-electric Water Heater'
       else:
-         water_heater_model = water_heater
+         water_heater_model = water_heater_mapping[water_heater]
 
       heating = st.selectbox('What type of heating system do you have?', ['Electric - Heat pump', 'Electric - Boiler or furnace', 'No Heating or Non-Electric - Fuel, gas, or propane boiler or furnace', 'Not sure'])
       if heating == "Not sure":
@@ -327,7 +331,7 @@ if st.session_state.address_submitted:
 
       heatingsetpoint = st.slider('What temperature do you usually turn your heater to in the winter?', min_value=60, max_value=80, step = 1, value = st.session_state.heatingsetpoint_mode)
 
-      coolingsetpoint = st.slider('What temperature do you usually turn your AC or cooling system to in the winter?', min_value=60, max_value=80, step = 1, value = st.session_state.coolingsetpoint_mode)
+      coolingsetpoint = st.slider('What temperature do you usually turn your AC or cooling system to in the summer?', min_value=60, max_value=80, step = 1, value = st.session_state.coolingsetpoint_mode)
 
       submit_qs = st.form_submit_button(label = "Get your estimates")
 
@@ -368,7 +372,6 @@ if st.session_state.address_submitted:
       # Load model and run predictions
       model = joblib.load('xgb_model.sav')
       kwh_prediction = model.predict(model_data)[0]
-      st.write(f'Predict kwh: {kwh_prediction}')
 
       # Load solar model
       solar_model = load_model('ghi_prediction_model.h5')
