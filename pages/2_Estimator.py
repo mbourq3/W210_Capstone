@@ -93,9 +93,9 @@ def predict_ghi_kWhr(lat, long):
     
     input_shaped = np.array([[lat, long]]).reshape(1, 1, 2, 1)
     
-    predicted_ghi = solar_model.predict(input_shaped)[0][0]
+    predicted_ghi_h5 = model_h5.predict(input_shaped)[0][0]
     
-    return predicted_ghi
+    return predicted_ghi_h5
 
 
 # Function for calculating final estimate
@@ -376,7 +376,7 @@ if st.session_state.address_submitted:
       kwh_prediction = model.predict(model_data)[0]
 
       # Load solar model
-      solar_model = tf.keras.models.load_model('ghi_prediction_model_updated.keras')
+      model_h5 = tf.keras.models.load_model('ghi_prediction_model_updated.h5')
       efficiency_factor = .2 # %conversion efficiency of solar panels to usable power, research shows ~20% for residential panels
       # Confirm formula - based on output of model do we still need to multiple by efficiency factor, 1000, and 365???
       ghi_est = predict_ghi_kWhr(st.session_state.lat, st.session_state.long)
