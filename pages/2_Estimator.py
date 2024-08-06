@@ -184,7 +184,7 @@ if 'long' not in st.session_state:
    st.session_state.long = ""
 
 # Set up google maps API 
-google_maps_api_key = 'AIzaSyB-_CP0_CWgJqAzs-VEYnUxQwHZm-HEaHg'
+google_maps_api_key = GOOGLE_MAPS_API_KEY
 
 # First form to get address and geocode it
 with st.form(key = "address"):
