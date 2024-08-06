@@ -9,6 +9,7 @@ import category_encoders
 from category_encoders import TargetEncoder
 import xgboost
 import numpy as np
+import os
 from tensorflow.keras.models import load_model
 
 st.set_page_config(page_title="Estimate your solar power requirements")
@@ -184,7 +185,7 @@ if 'long' not in st.session_state:
    st.session_state.long = ""
 
 # Set up google maps API 
-google_maps_api_key = GOOGLE_MAPS_API_KEY
+google_maps_api_key = os.getenv('GOOGLE_MAPS_API_KEY')
 
 # First form to get address and geocode it
 with st.form(key = "address"):
