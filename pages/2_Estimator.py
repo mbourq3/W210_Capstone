@@ -212,7 +212,7 @@ with st.form(key = "address"):
             for component in data['results'][0]['address_components']:
                 if 'administrative_area_level_1' in component['types']:
                     st.session_state.state = component['long_name']
-                    st.markdown(f'State: {st.session_state.state}') 
+                    
 
    # form submit button
    address_submit = st.form_submit_button(label = "Confirm address")
@@ -377,7 +377,6 @@ if st.session_state.address_submitted:
       solar_model = load_model('ghi_prediction_model.h5')
       efficiency_factor = .2 # %conversion efficiency of solar panels to usable power, research shows ~20% for residential panels
       # Confirm formula - based on output of model do we still need to multiple by efficiency factor, 1000, and 365???
-      st.markdown(f'lat long: {st.session_state.lat}, {st.session_state.long}')
       #ghi_est = predict_ghi_kWhr(st.session_state.lat, st.session_state.long)
 
       # Load electric rates by state
