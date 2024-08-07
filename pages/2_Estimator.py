@@ -119,7 +119,7 @@ def total_solar_panels(GHI, kwh_residential_usage, roof_area, state, rates_df):
     elec_rate = rates_df[rates_df["State"] == state]["Rate_c_per_kWh"].reset_index(drop = True).iloc[0]
     
     # Convert GHI from Wh/m2 to kWh/sq-ft: 1Wh/m2 = 9.2903 x10^-5 kwh/sq-ft
-    GHI_kWh_sqft = GHI/1000 * 9.2903e-5
+    GHI_kWh_sqft = GHI * 9.2903e-5
     #print(f"GHI_kWh_sqft = {GHI_kWh_sqft}")
     # Annual Solar panel output (kWh/sq-ft) = GHI_kWh_sqft * solar_panel_efficiency
     solar_panel_output_per_sqft = GHI_kWh_sqft * solar_panel_efficiency * operating_efficiency
